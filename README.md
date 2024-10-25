@@ -14,21 +14,15 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Through E-mail
+<br>
 
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+## About Me!
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
+<br>
 
 ## Technologies i know..
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -42,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+<br>
 
 ## Let's connect
 
@@ -58,9 +52,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-###
 <br>
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Justinanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
