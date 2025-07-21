@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ###
 
