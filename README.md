@@ -1,72 +1,57 @@
-
-<!---
-Justinanurag/Justinanurag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--  <p> <img align="right" src="https://pageview.vercel.app/?github_user=sujeetkumar-29" alt="sujeetkumar-29"> </p> -->
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=Justinanurag" alt="Justinanurag"> </p>
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Hi there! ✨
 
-###
-
-- 👋 Hi, I’m @Justinanurag
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Through E-mail
-<br>
-
-## About Me!
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-<br>
-
-## Technologies i know..
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-<br>
-
-## Let's connect
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-<br>
-
-## 📊 GitHub Stats:
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=Justinanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Justinanurag&theme=dark&hide_border=false)<br/>
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Justinanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub profile! I'm ***SUJEET KUMAR***, a passionate developer constantly learning and building projects to improve my skills and create innovative solutions.
 
 ---
 
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Profession**: Aspiring Software Developer
+- **Expertise**: Front-end and Back-end Web Development
+- **Technologies I Work With**:
+ <p align="left"> 
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+   <img alt="css3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  
+</p>
+
+---
+
+## What I’m Learning
+
+- Advanced JavaScript (ES6+)
+- Backend Development with Express.js
+- REST API development and integrations
+
+---
+
+## Let's Connect
+
+- **GitHub**: [Justinanurag][(https://github.com/Justinanurag)]
 
 
+Feel free to reach out for collaboration or to discuss anything tech-related!
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetkumar-29&theme=darkhub" alt="Justinanurag" /></a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetkumar-29&show_icons=true&locale=en&layout=compact" alt="Justinanurag" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetkumar-29&show_icons=true&locale=en" alt="Justinanurag" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sujeetkumar-29&theme=meta-light" alt="Justinanurag" /></p>
