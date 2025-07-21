@@ -4,7 +4,7 @@
 
 # Hi there! ✨
 
-Welcome to my GitHub profile! I'm ***SUJEET KUMAR***, a passionate developer constantly learning and building projects to improve my skills and create innovative solutions.
+Welcome to my GitHub profile! I'm ***Anurag Tiwari***, a passionate developer constantly learning and building projects to improve my skills and create innovative solutions.
 
 ---
 
