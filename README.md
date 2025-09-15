@@ -102,7 +102,7 @@ I'm actively expanding my skill set in the following areas to stay ahead in the 
 ## 📫 Let's Connect
 
 - 🔗 **GitHub**: [Justinanurag](https://github.com/Justinanurag)
-- 💡 **LeetCode**: [Justinanurag on LeetCode](https://leetcode.com/Justinanurag/)
+- 💡 **LeetCode**: [Justinanurag on LeetCode](https://leetcode.com/u/Justinanurag0_2/)
 - 📬 Open to **collaborations**, **internships**, or just a great tech chat!
 
 ---
