@@ -98,6 +98,13 @@ I'm actively expanding my skill set in the following areas to stay ahead in the 
 </p>
 
 ---
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Justinanurag&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</p>
+
+<br />
 
 ## 📫 Let's Connect
 
